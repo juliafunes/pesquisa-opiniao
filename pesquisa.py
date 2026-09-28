@@ -4,7 +4,7 @@ print("Sua opinião importa! Responda à pesquisa sobre o nosso atendimento.")
 excelente = 0
 ruim = 0
 
-for i in range(1, 12):
+for i in range(1, 51):
 
     print(f"\nEntrevistado {i}")
     nome_entrevistado = input("Digite seu nome: ")
